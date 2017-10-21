@@ -5,8 +5,6 @@ import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
 
-import se_01.Project;
-
 public class Test2 {
 Project simple_example, simple_cycle, complex_cycle, complex_graph;
   
