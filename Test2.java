@@ -28,6 +28,7 @@ public void test_simple_example_1(){
 	assertTrue(simple_example.isWellSorted(new String[]{"A","C","D","B"}));
 }
 
+@Test
 public void test_simple_example_2(){
 	assertFalse(simple_example.isWellSorted(new String[]{"A","B","D","C"}));
 }
